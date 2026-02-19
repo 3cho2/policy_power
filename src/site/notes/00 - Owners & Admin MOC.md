@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/00-owners-and-admin-moc/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-owners-and-admin-moc/","dgPassFrontmatter":true}
 ---
 
 # 04 Owners & Admin/00 - Owners & Admin MOC
